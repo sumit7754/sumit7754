@@ -8,7 +8,6 @@ Full Stack Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sumitjain7754@gmail.com](mailto:sumitjain7754@gmail.com)
-* 🚀  I'm currently working on [College-Sphere](http://college-sphere-frontend-rqqn.vercel.app/)
 
 ### Skills
 
